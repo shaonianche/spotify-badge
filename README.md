@@ -2,7 +2,7 @@
 
 If you want to share your love of music with the world you are in right place. You can share your currently playing track from your Spotify with just an image.
 
-<img src="https://spotify-badge.vercel.app/api/now-playing?3" width="540" height="52">
+<img src="https://spotify-badge-eb1wjop0f-shaonianche.vercel.app/api/now-playing" width="540" height="52">
 
 ### Features
 🎸 **playing now** - current state of track with real-time progress bar  
